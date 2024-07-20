@@ -1,2 +1,3 @@
 #ignore node modulkes directory
 node_modules/
+.env
